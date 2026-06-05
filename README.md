@@ -2,7 +2,7 @@
 Cybersecurity-Learning-Journey
 # Cybersecurity Learning Journey
 
-Hello, I'm Cyprian.
+Hello, I'm Timothy.
 
 I am currently pursuing a Bachelor of Science in Computer Science and building my skills in cybersecurity.
 
